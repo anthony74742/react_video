@@ -1,4 +1,5 @@
 {
+  "homepage": "http://anthony74742.github.io/react_video",
   "name": "react_video",
   "version": "0.1.0",
   "private": true,
@@ -36,6 +37,5 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  },
-  "homepage": "https://github.com/anthony74742/react_video"
+  }
 }
